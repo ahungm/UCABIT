@@ -1,0 +1,20 @@
+{
+  "rank": 28,
+  "tag": "XMR",
+  "name": "Monero",
+  "price": 263.0424630628705,
+  "price1hpc": -1.818066049073,
+  "price24hpc": -0.144254495688,
+  "price7dpc": 12.057936042761,
+  "price30dpc": 26.779168888923,
+  "volume": 2.4453988052503827E8,
+  "volume24hpc": -4.12231598526,
+  "totalSupply": 1.796847098460292E7,
+  "marketCap": 4.726470865263674E9,
+  "marketCap24hpc": -0.140617022417,
+  "circulatingSupply": 1.796847098460292E7,
+  "fullyDilutedMarketCap": 0.0,
+  "fullyDilutedMarketCap24hpc": -0.144254495688,
+  "lastUpdated": "2021-08-07T14:07:08.966-0400",
+  "id": 328
+}

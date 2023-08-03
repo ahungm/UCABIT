@@ -1,0 +1,20 @@
+{
+  "rank": 3,
+  "tag": "USDT",
+  "name": "Tether",
+  "price": 1.000494975565351,
+  "price1hpc": -0.001877231716,
+  "price24hpc": 0.033762373708,
+  "price7dpc": 0.007339233512,
+  "price30dpc": 0.059121932077,
+  "volume": 8.10569089513647E10,
+  "volume24hpc": 17.896393365442,
+  "totalSupply": 6.346884705956271E10,
+  "marketCap": 6.2131871824953735E10,
+  "marketCap24hpc": 0.195298125445,
+  "circulatingSupply": 6.210113328139884E10,
+  "fullyDilutedMarketCap": 0.0,
+  "fullyDilutedMarketCap24hpc": 0.033762373708,
+  "lastUpdated": "2021-08-07T14:07:01.585-0400",
+  "id": 825
+}

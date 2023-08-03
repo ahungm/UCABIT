@@ -1,0 +1,20 @@
+{
+  "rank": 33,
+  "tag": "GRT",
+  "name": "The Graph",
+  "price": 0.7043482067010182,
+  "price1hpc": -2.114151237121,
+  "price24hpc": -2.080776776638,
+  "price7dpc": 15.318292194604,
+  "price30dpc": 4.690471825734,
+  "volume": 1.8618937020210758E8,
+  "volume24hpc": 29.341968240018,
+  "totalSupply": 1.0E10,
+  "marketCap": 3.3215196313968673E9,
+  "marketCap24hpc": -2.080776776638,
+  "circulatingSupply": 4.7157352E9,
+  "fullyDilutedMarketCap": 7.083661209687312E9,
+  "fullyDilutedMarketCap24hpc": -2.080776776638,
+  "lastUpdated": "2021-08-07T14:07:10.888-0400",
+  "id": 6719
+}

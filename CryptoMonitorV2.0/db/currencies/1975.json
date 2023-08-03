@@ -1,0 +1,20 @@
+{
+  "rank": 13,
+  "tag": "LINK",
+  "name": "Chainlink",
+  "price": 24.020726804480134,
+  "price1hpc": -1.279220859322,
+  "price24hpc": -1.200410558994,
+  "price7dpc": 12.693241325094,
+  "price30dpc": 27.112018653959,
+  "volume": 1.1668520081796799E9,
+  "volume24hpc": -5.774099546012,
+  "totalSupply": 1.0E9,
+  "marketCap": 1.0677442556632727E10,
+  "marketCap24hpc": -1.089152154113,
+  "circulatingSupply": 4.445095539174637E8,
+  "fullyDilutedMarketCap": 2.4020726804480133E10,
+  "fullyDilutedMarketCap24hpc": -1.200410558994,
+  "lastUpdated": "2021-08-07T14:07:04.915-0400",
+  "id": 1975
+}

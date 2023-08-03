@@ -1,0 +1,20 @@
+{
+  "rank": 37,
+  "tag": "KLAY",
+  "name": "Klaytn",
+  "price": 1.2289386185406543,
+  "price1hpc": -1.214154682876,
+  "price24hpc": 5.006165219234,
+  "price7dpc": 18.363342494121,
+  "price30dpc": 28.737285729726,
+  "volume": 1.2743376307171744E8,
+  "volume24hpc": 12.972409564444,
+  "totalSupply": 1.06396484608E10,
+  "marketCap": 3.0641462774354134E9,
+  "marketCap24hpc": 5.017950721333,
+  "circulatingSupply": 2.4933273568E9,
+  "fullyDilutedMarketCap": 0.0,
+  "fullyDilutedMarketCap24hpc": 5.006165219234,
+  "lastUpdated": "2021-08-07T14:07:13.779-0400",
+  "id": 4256
+}

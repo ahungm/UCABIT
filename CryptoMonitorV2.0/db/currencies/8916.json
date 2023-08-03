@@ -1,0 +1,20 @@
+{
+  "rank": 16,
+  "tag": "ICP",
+  "name": "Internet Computer",
+  "price": 61.802812508549316,
+  "price1hpc": -2.112633816621,
+  "price24hpc": 19.685109009492,
+  "price7dpc": 48.447768536379,
+  "price30dpc": 50.199224932802,
+  "volume": 1.3490391599227724E9,
+  "volume24hpc": 106.640176514921,
+  "totalSupply": 4.717079572127211E8,
+  "marketCap": 8.460756427598504E9,
+  "marketCap24hpc": 19.685109009492,
+  "circulatingSupply": 1.3689921355E8,
+  "fullyDilutedMarketCap": 2.899872694557083E10,
+  "fullyDilutedMarketCap24hpc": 19.685109009492,
+  "lastUpdated": "2021-08-07T14:07:07.675-0400",
+  "id": 8916
+}

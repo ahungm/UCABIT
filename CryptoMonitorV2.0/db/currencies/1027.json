@@ -1,0 +1,20 @@
+{
+  "rank": 2,
+  "tag": "ETH",
+  "name": "Ethereum",
+  "price": 3039.336832872306,
+  "price1hpc": -1.546824882387,
+  "price24hpc": 4.196255395194,
+  "price7dpc": 24.609731171958,
+  "price30dpc": 40.929127574295,
+  "volume": 3.1774456363372124E10,
+  "volume24hpc": 19.211067304391,
+  "totalSupply": 1.17009387624E8,
+  "marketCap": 3.556309415974561E11,
+  "marketCap24hpc": 4.208344708522,
+  "circulatingSupply": 1.17009387624E8,
+  "fullyDilutedMarketCap": 0.0,
+  "fullyDilutedMarketCap24hpc": 4.196255395194,
+  "lastUpdated": "2021-08-07T14:07:01.303-0400",
+  "id": 1027
+}

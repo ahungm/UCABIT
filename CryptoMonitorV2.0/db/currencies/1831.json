@@ -1,0 +1,20 @@
+{
+  "rank": 12,
+  "tag": "BCH",
+  "name": "Bitcoin Cash",
+  "price": 574.583489041846,
+  "price1hpc": -1.866954789144,
+  "price24hpc": 3.658384571641,
+  "price7dpc": 6.71920170797,
+  "price30dpc": 15.637434598722,
+  "volume": 2.3215338106327095E9,
+  "volume24hpc": 8.490655042475,
+  "totalSupply": 1.8810925E7,
+  "marketCap": 1.0808446918604486E10,
+  "marketCap24hpc": 3.663550961865,
+  "circulatingSupply": 1.8810925E7,
+  "fullyDilutedMarketCap": 1.2066253269878765E10,
+  "fullyDilutedMarketCap24hpc": 3.658384571641,
+  "lastUpdated": "2021-08-07T14:07:04.586-0400",
+  "id": 1831
+}

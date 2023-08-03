@@ -1,0 +1,20 @@
+{
+  "rank": 15,
+  "tag": "LTC",
+  "name": "Litecoin",
+  "price": 151.8555630448465,
+  "price1hpc": -1.773708817738,
+  "price24hpc": 1.895261914751,
+  "price7dpc": 6.707040836046,
+  "price30dpc": 14.736518424613,
+  "volume": 2.0799444519379413E9,
+  "volume24hpc": 13.667048404972,
+  "totalSupply": 6.675261451538747E7,
+  "marketCap": 1.0136755861949759E10,
+  "marketCap24hpc": 1.895261914751,
+  "circulatingSupply": 6.675261451538747E7,
+  "fullyDilutedMarketCap": 1.2755867295767107E10,
+  "fullyDilutedMarketCap24hpc": 1.895261914751,
+  "lastUpdated": "2021-08-07T14:07:05.193-0400",
+  "id": 2
+}

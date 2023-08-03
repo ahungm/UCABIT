@@ -1,0 +1,20 @@
+{
+  "rank": 19,
+  "tag": "MATIC",
+  "name": "Polygon",
+  "price": 1.1347977170234613,
+  "price1hpc": -1.318305414779,
+  "price24hpc": 4.190059802452,
+  "price7dpc": 9.126987272002,
+  "price30dpc": 5.866146560666,
+  "volume": 1.0564484296073514E9,
+  "volume24hpc": 79.861470834858,
+  "totalSupply": 1.0E10,
+  "marketCap": 7.30212348868035E9,
+  "marketCap24hpc": 4.190059802452,
+  "circulatingSupply": 6.434735794E9,
+  "fullyDilutedMarketCap": 1.1347977170234613E10,
+  "fullyDilutedMarketCap24hpc": 4.190059802452,
+  "lastUpdated": "2021-08-07T14:07:06.001-0400",
+  "id": 3890
+}
